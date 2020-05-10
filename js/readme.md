@@ -1,1 +1,1 @@
-Le mjavascript de l'application
+Le javascript de l'application
