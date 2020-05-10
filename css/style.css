@@ -1,0 +1,169 @@
+body{
+  padding:50px 30px;
+
+  
+}
+.app{
+  width: 100%;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.titre1{
+  margin-top: 180px;
+  font-size: 25px;
+}
+.content{
+  padding: 20px;
+ 
+}
+
+
+.content-button{
+  padding:20px;
+  border-radius: 30px;
+  border: solid 0.7px;
+  border-color: lightgrey;
+  width:100%;
+  height:100%;
+  display: flex;
+  margin-top: 20px;
+}
+.icon-2{
+  width: 40px;
+  height:40px;
+   border: solid 3px;
+  border-color: rgb(233, 203, 203);
+  border-radius: 20px;
+  float: right;
+  background-color: rgb(95, 107, 206);
+}
+h4{
+  font-size:20px;
+  margin:20px 20px;
+}
+.icon-button1{
+  background-color: rgb(178, 47, 204);
+  width:60px;
+  height:60px;
+  border-radius: 20px;
+padding-left: 20px;
+margin-top:35px ;
+  vertical-align: middle;
+}
+.icon-button2{
+  margin-top:35px ;
+  background-color: rgb(95, 107, 206);
+  width:60px;
+  height:60px;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+.icon-button3{
+  margin-top:25px ;
+  background-color: #f09a78;
+  width:60px;
+  height:60px;
+  border-radius:20px;
+  padding-left: 20px;
+}
+.text{
+  font-size:20px;
+  margin:20px 20px;
+  color:lightgray;
+}
+
+.choix{
+  display: flex;
+}
+.text-button1,.text-button2 {
+ font-size:18px;
+ padding: 10px 10px;
+ border-radius: 50px;
+}
+.text-button1{
+  color:white;
+  background-color :rgb(95, 107, 206) ;
+}
+.text-button2{
+  margin-left: 10px;
+  color:lightgray;
+   background-color: rgb(243, 245, 247);
+}
+
+.theme{
+  display: flex;
+  flex-direction: row;
+}
+
+h3{
+  font-size: 20px;
+  color:white;
+}
+.card{
+  margin-top: 30px;
+  margin-right: 20px;
+  width: 170px;
+  height: 290px;
+  border-radius: 20px;
+padding-top: 45px;
+padding-right: 20px;
+padding-left:20px ;
+
+
+}
+
+.card1{
+  background-color: rgb(178, 47, 204);
+}
+.card2{
+  background-color: rgb(95, 107, 206)
+}
+.card3{
+  background-color: rgb(226, 136, 101);
+}
+
+.content-button2{
+  padding:5px;
+  border-radius: 30px;
+  border: solid 0.7px;
+  border-color: lightgrey;
+  width:100%;
+  height:100%;
+  display: flex;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+.special{
+  margin-top: 30px;
+}
+
+
+.specialites{
+  display: flex;
+}
+.special-text{
+  font-size:15px;
+  vertical-align: middle;
+}
+.icon {
+  
+ 
+  width:40px;
+  height:40px;
+ 
+  border-radius:20px;
+  padding: 0 10px ;
+  margin-right: 5px;
+}
+.icon-button4{
+
+  background-color: rgb(95, 107, 206);
+  
+}
+.icon-button5{
+  
+  background-color:rgb(178, 47, 204);
+ 
+}
